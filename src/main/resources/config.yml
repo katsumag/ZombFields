@@ -1,0 +1,9 @@
+Archers:
+  amount: 7
+  cooldown: 50s
+Warriors:
+  amount: 6
+  cooldown: 50s
+Bombers:
+  amount: 4
+  cooldown: 50s
